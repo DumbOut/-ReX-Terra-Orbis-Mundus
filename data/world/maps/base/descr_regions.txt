@@ -1,0 +1,376 @@
+;
+; regions list
+;
+
+; 1. Britannia
+; 2. Hibernia
+; 3. Scandinavia
+; 4. Belgica
+; 5. Gallia
+; 6. Hispania
+; 7. Baliares
+; 8. Sardinia & Corsica
+; 9. Sicilia & Islands
+; 10. Italia
+; 11. Alps
+; 12. Germania magna
+; 13. Baltic
+; 14. Carpathia
+; 15. Illyria
+; 16. Thracia
+; 17. Macedonia
+; 18. Hellas
+; 19. Anatolia
+; 20. Caucasia
+; 21. Armenia
+; 22. Levante
+; 23. Mesopotamia
+; 24. Arabia
+; 25. Persia
+; 26. Ariana
+; 27. Chorasmia
+; 28. Bactria & Sogdiana
+; 29. Indus
+; 30. Himalaya
+; 31. Bengal
+; 32. Ganges
+; 33. Satpura-Vindhaya
+; 34. Gurjaratra
+; 35. Malabar Coast
+; 36. Deccan
+; 37. Coromandel Coast
+; 38. Simhala
+; 39. Taklamakan
+; 40. Gansu, Qaidam & Turfan
+; 41. Altai
+; 42. Eastern Scythia
+; 43. Sarmatia
+; 44. Taurika
+; 45. Western Scythia
+; 46. Northern Forests
+; 47. Egypt
+; 48. Ethiopia
+; 49. Eastern Africa
+; 50. Libya
+; 51. Africa 
+; 52. Numidia
+; 53. Mauretania
+; 54. Sahara
+; 55. NEW REGIONS FOR BIG MAP
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+; *********************************************************
+; *********************************************************
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+; 1. Hellas
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+; *********************************************************
+
+Argos_R
+	Argos
+	greek_cities
+	Argives
+	131 63 100
+	none
+	5
+	8
+Tiryns_R
+	Tiryns
+	greek_cities
+	Tirynthians
+	197 136 169
+	none
+	5
+	8
+Phlius_R
+	Phlius
+	greek_cities
+	Argolians
+	212 87 87
+	none
+	5
+	8
+Mycenae_R
+	Mycenae
+	greek_cities
+	Mycenaeans
+	121 113 130
+	none
+	5
+	8
+Kleonai_R
+	Kleonai
+	greek_cities
+	Argolians
+	131 63 100
+	none
+	5
+	8
+Epidauros01_R
+	Epidauros01
+	greek_cities
+	Argolians
+	118 164 162
+	none
+	5
+	8
+Troezen_R
+	Troezen
+	greek_cities
+	Troezenians
+	212 62 79
+	none
+	5
+	8
+Hermione_R
+	Hermione
+	greek_cities
+	Troezenians
+	180 226 224
+	none
+	5
+	8
+Hydrousa_R
+	Hydrousa
+	greek_cities
+	Troezenians
+	155 131 131
+	none
+	5
+	8
+Aegina_R
+	Aegina
+	greek_cities
+	Argolians
+	106 42 42
+	none
+	5
+	8
+Salamis_R
+	Salamis
+	greek_cities
+	Salamis_Ionians
+	135 130 145
+	none
+	5
+	8
+Corinth_R
+	Corinth
+	greek_cities
+	Corinthians
+	104 55 55
+	none
+	5
+	8
+Sikyon_R
+	Sikyon
+	greek_cities
+	Achaeans
+	47 26 72
+	none
+	5
+	8
+Stymphalos_R
+	Stymphalos
+	greek_cities
+	Achaeans
+	91 24 24
+	none
+	5
+	8
+Pellene_R
+	Pellene
+	greek_cities
+	Achaeans
+	203 137 137
+	none
+	5
+	8
+Pellene_R
+	Pellene
+	greek_cities
+	Achaeans
+	203 137 137
+	none
+	5
+	8
+Aegae_R
+	Aegae
+	greek_cities
+	Ionians
+	125 81 81
+	none
+	5
+	8
+Aegeirae_R
+	Aegeirae
+	greek_cities
+	Achaeans
+	135 35 35
+	none
+	5
+	8
+Aegium_R
+	Aegium
+	greek_cities
+	Achaeans
+	83 151 76
+	none
+	5
+	8
+Kythera_R
+	Kythera
+	greek_cities
+	Doric_Pelasgians
+	214 112 168
+	none
+	5
+	8
+Thyrea_R
+	Thyrea
+	greek_cities
+	Doric_Pelasgians
+	171 131 137
+	none
+	5
+	8
+Kyphanta_R
+	Kyphanta
+	greek_cities
+	Doric_Pelasgians
+	142 45 45
+	none
+	5
+	8
+Melos_R
+	Melos
+	greek_cities
+	Melians
+	97 52 52
+	none
+	5
+	8
+Zakynthos_R
+	Zakynthos
+	greek_cities
+	Ionians
+	31 54 45
+	none
+	5
+	8
+Leucadia_R
+	Leucadia
+	greek_cities
+	Cephellenians
+	202 135 171
+	none
+	5
+	8
+Ithaka_R
+	Ithaka
+	greek_cities
+	Cephellenians
+	71 130 103
+	none
+	5
+	8
+Same_R
+	Same
+	greek_cities
+	Cephellenians
+	25 86 51
+	none
+	5
+	8
+Kranoi_R
+	Kranoi
+	greek_cities
+	Cephellenians
+	126 120 137
+	none
+	5
+	8
+Pronnoi_R
+	Pronnoi
+	greek_cities
+	Cephellenians
+	106 57 57
+	none
+	5
+	8
+Taphos_R
+	Taphos
+	greek_cities
+	Cephellenians
+	44 54 18
+	none
+	5
+	8
+Poseidion_R
+	Poseidion
+	greek_cities
+	Lelegians
+	205 245 101
+	none
+	5
+	8
+Kasos_R
+	Kasos
+	greek_cities
+	Lelegians
+	141 78 78
+	none
+	5
+	8
+Syme_R
+	Syme
+	greek_cities
+	Lelegians
+	60 45 75
+	none
+	5
+	8
+Epidauros_Limera_R
+	Epidauros_Limera
+	greek_cities
+	Phoenicio_Laconians
+	153 81 183
+	none
+	5
+	8
+Epidelion_R
+	Epidelion
+	greek_cities
+	Phoenicio_Laconians
+	89 118 146
+	none
+	5
+	8
+Zarax_R
+	Zarax
+	greek_cities
+	Phoenicio_Laconians
+	176 152 186
+	none
+	5
+	8
+Skyros_R
+	Skyros
+	greek_cities
+	Dryopes
+	158 81 236
+	none
+	5
+	8
+	
+;;;; Temp Regions ;;;
+
+Temp1_R
+	Temp1
+	greek_cities
+	Ionians
+	189 46 184
+	none
+	5
+	8
