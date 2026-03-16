@@ -363,6 +363,78 @@ Skyros_R
 	none
 	5
 	8
+Pheneos_R
+	Pheneos
+	greek_cities
+	Arcadians
+	158 116 191
+	none
+	5
+	8
+Pheneos_R
+	Pheneos
+	greek_cities
+	Arcadians
+	158 116 191
+	none
+	5
+	8
+Kleitoria_R
+	Kleitoria
+	greek_cities
+	Arcadians
+	154 170 115
+	none
+	5
+	8
+Psophis_R
+	Psophis
+	greek_cities
+	Arcadians
+	55 47 17
+	none
+	5
+	8
+Patrae_R
+	Patrae
+	greek_cities
+	Achaeans
+	121 65 65
+	none
+	5
+	8
+Peiraion_R
+	Peiraion
+	greek_cities
+	Corinthians
+	200 118 154
+	none
+	5
+	8
+Delos_R
+	Delos
+	greek_cities
+	Cyclado_Ionians
+	117 58 58
+	none
+	5
+	8
+Karthaea_R
+	Karthaea
+	greek_cities
+	Cyclado_Ionians
+	180 163 101
+	none
+	5
+	8
+Siphnos_R
+	Siphnos
+	greek_cities
+	Cyclado_Ionians
+	167 117 117
+	none
+	5
+	8
 	
 ;;;; Temp Regions ;;;
 

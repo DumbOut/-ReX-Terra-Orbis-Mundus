@@ -341,6 +341,20 @@ settlement
 settlement
 {
 	level village
+	region Peiraion_R
+
+	year_founded 0
+	population 265
+	plan_set default_set
+	faction_creator greek_cities
+	building
+	{
+		type core_building governors_house
+	}
+}
+settlement
+{
+	level village
 	region Mycenae_R
 
 	year_founded 0
@@ -380,6 +394,46 @@ settlement
 	building
 	{
 		type port_buildings port
+	}
+}
+settlement
+{
+	level large_town
+	region Patrae_R
+
+	year_founded 0
+	population 1100
+	plan_set default_set
+	faction_creator greek_cities
+	building
+	{
+		type core_building governors_villa
+	}
+	building
+	{
+		type defenses wooden_wall
+	}
+	building
+	{
+		type barracks muster_field
+	}
+}
+settlement
+{
+	level large_town
+	region Delos_R
+
+	year_founded 0
+	population 720
+	plan_set default_set
+	faction_creator greek_cities
+	building
+	{
+		type core_building governors_villa
+	}
+	building
+	{
+		type defenses wooden_pallisade
 	}
 }
 settlement
@@ -540,7 +594,35 @@ settlement
 	region Syme_R
 
 	year_founded 0
-	population 400
+	population 390
+	plan_set default_set
+	faction_creator greek_cities
+	building
+	{
+		type core_building governors_house
+	}
+}
+settlement
+{
+	level town
+	region Karthaea_R
+
+	year_founded 0
+	population 303
+	plan_set default_set
+	faction_creator greek_cities
+	building
+	{
+		type core_building governors_house
+	}
+}
+settlement
+{
+	level town
+	region Siphnos_R
+
+	year_founded 0
+	population 290
 	plan_set default_set
 	faction_creator greek_cities
 	building
@@ -564,6 +646,56 @@ settlement
 	building
 	{
 		type market trader
+	}
+}
+settlement
+{
+	level town
+	region Kleitoria_R
+
+	year_founded 0
+	population 400
+	plan_set default_set
+	faction_creator greek_cities
+	building
+	{
+		type core_building governors_house
+	}
+	building
+	{
+		type defenses wooden_pallisade
+	}
+}
+settlement
+{
+	level town
+	region Psophis_R
+
+	year_founded 0
+	population 376
+	plan_set default_set
+	faction_creator greek_cities
+	building
+	{
+		type core_building governors_house
+	}
+}
+settlement
+{
+	level town
+	region Pheneos_R
+
+	year_founded 0
+	population 345
+	plan_set default_set
+	faction_creator greek_cities
+	building
+	{
+		type core_building governors_house
+	}
+	building
+	{
+		type defenses wooden_pallisade
 	}
 }
 settlement

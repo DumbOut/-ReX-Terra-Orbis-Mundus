@@ -2355,6 +2355,25 @@ unit				greek hoplite
 unit				greek cavalry
 unit				generic rebel general
 
+rebel_type 			Cyclado_Ionians	//Macedon
+category			peasant_revolt 
+chance				0					
+description			Cyclado_Ionians
+unit				greek peasant
+unit				greek peltast
+unit				greek heavy peltast
+unit				greek hoplite militia
+unit				greek peltast
+unit				greek hoplite militia
+unit				greek hoplite militia
+unit				greek hoplite militia
+unit				greek hoplite
+unit				greek hoplite
+unit				greek hoplite
+unit				greek cavalry
+unit				generic rebel general
+
+
 rebel_type 			Lelegians	//Pontus
 category			peasant_revolt 
 chance				0					
