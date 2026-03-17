@@ -2184,52 +2184,6 @@ unit				east infantry
 unit				east infantry
 unit				eastern rebel general
 
-;;;;;;;;;;;;		;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;				
-;non region			based
-;;;;;;;;;;;;		;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-					
-rebel_type			gladiator_uprising
-category			gladiator_revolt
-chance				100
-description			gladiator_uprising
-unit				roman peasant		
-unit				roman peasant		
-unit				roman velite gladiator	
-unit				roman samnite gladiator	
-unit				roman mirmillo gladiator
-					
-rebel_type			brigands
-category			brigands
-chance				50
-description			brigands
-unit				merc peltast		
-unit				merc illyrian	
-unit				merc samnite
-unit				merc thracian		
-unit				merc bastarnae	
-unit				merc sarmatian cavalry
-unit				merc horse archers
-unit				merc spanish infantry
-unit				merc eastern infantry
-unit				merc rhodian slingers
-unit				merc cretan archers
-unit				merc greek hoplites
-unit				merc libyan infantry
-unit				merc numidian cavalry
-unit				merc arab cavalry
-unit				merc bedouin
-unit				merc bedouin archers
-unit				merc balearic slingers
-unit				merc barbarian infantry
-unit				merc barbarian cavalry		
-					
-rebel_type			pirates
-category			pirates
-chance				50
-description			pirates
-unit				naval pirate ships		
-					
-				
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;;;;;;;;;;; NEW REBEL TYPES ;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
@@ -2373,6 +2327,41 @@ unit				greek hoplite
 unit				greek cavalry
 unit				generic rebel general
 
+rebel_type  		Northwest_Dorians   //Macedon
+category			peasant_revolt 
+chance				0					
+description			Northwest_Dorians
+unit				greek peasant
+unit				greek peltast
+unit				greek hoplite militia
+unit				greek hoplite militia
+unit				greek peltast
+unit				greek hoplite militia
+unit				greek hoplite militia
+unit				greek hoplite militia
+unit				greek hoplite
+unit				greek hoplite
+unit				greek hoplite
+unit				greek cavalry
+unit				generic rebel general
+
+rebel_type  		Corcyrans   //Macedon
+category			peasant_revolt 
+chance				0					
+description			Corcyrans
+unit				greek peasant
+unit				greek peltast
+unit				greek hoplite militia
+unit				greek hoplite militia
+unit				greek peltast
+unit				greek hoplite militia
+unit				greek hoplite militia
+unit				greek hoplite militia
+unit				greek hoplite
+unit				greek hoplite
+unit				greek hoplite
+unit				greek cavalry
+unit				generic rebel general
 
 rebel_type 			Lelegians	//Pontus
 category			peasant_revolt 
@@ -2381,8 +2370,8 @@ description			Lelegians
 unit				east peasant
 unit				east archer
 unit				greek hoplite militia
-unit				greek hoplite militia
-unit				greek hoplite militia
+unit				east infantry
+unit				east infantry
 unit				greek hoplite
 unit				east infantry
 unit				east infantry
@@ -2404,3 +2393,51 @@ unit				carthaginian city militia
 unit				carthaginian city militia
 unit				greek medium cavalry
 unit				generic rebel general
+
+
+;;;;;;;;;;;;		;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;				
+;non region			based
+;;;;;;;;;;;;		;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+					
+rebel_type			gladiator_uprising
+category			gladiator_revolt
+chance				100
+description			gladiator_uprising
+unit				roman peasant		
+unit				roman peasant		
+unit				roman velite gladiator	
+unit				roman samnite gladiator	
+unit				roman mirmillo gladiator
+					
+rebel_type			brigands
+category			brigands
+chance				50
+description			brigands
+unit				merc peltast		
+unit				merc illyrian	
+unit				merc samnite
+unit				merc thracian		
+unit				merc bastarnae	
+unit				merc sarmatian cavalry
+unit				merc horse archers
+unit				merc spanish infantry
+unit				merc eastern infantry
+unit				merc rhodian slingers
+unit				merc cretan archers
+unit				merc greek hoplites
+unit				merc libyan infantry
+unit				merc numidian cavalry
+unit				merc arab cavalry
+unit				merc bedouin
+unit				merc bedouin archers
+unit				merc balearic slingers
+unit				merc barbarian infantry
+unit				merc barbarian cavalry		
+					
+rebel_type			pirates
+category			pirates
+chance				50
+description			pirates
+unit				naval pirate ships		
+					
+			

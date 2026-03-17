@@ -435,7 +435,87 @@ Siphnos_R
 	none
 	5
 	8
-	
+Mantineia_R
+	Mantineia
+	greek_cities
+	Arcadians
+	204 161 200
+	none
+	5
+	8
+Orchomenos01_R
+	Orchomenos01
+	greek_cities
+	Arcadians
+	142 96 103
+	none
+	5
+	8
+Paros_R
+	Paros
+	greek_cities
+	Cyclado_Ionians
+	167 117 117
+	none
+	5
+	8
+Paxos_R
+	Paxos
+	greek_cities
+	Corcyrans
+	237 99 99
+	none
+	5
+	8
+Kerkyra_R
+	Kerkyra
+	greek_cities
+	Corcyrans
+	127 54 65
+	none
+	5
+	8
+Kos_R
+	Kos
+	greek_cities
+	Cyclado_Ionians
+	192 104 104
+	none
+	5
+	8
+Telos_R
+	Telos
+	greek_cities
+	Lelegians
+	17 50 32
+	none
+	5
+	8
+Maiandrea_R
+	Maiandrea
+	greek_cities
+	Epirots
+	91 127 108
+	none
+	5
+	8
+Ikos_Eudemea_R
+	Ikos_Eudemea
+	greek_cities
+	Dryopes
+	226 219 160
+	none
+	5
+	8
+Andros_R
+	Andros
+	greek_cities
+	Dryopes
+	37 83 49
+	none
+	5
+	8
+
 ;;;; Temp Regions ;;;
 
 Temp1_R

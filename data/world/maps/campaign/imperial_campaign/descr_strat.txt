@@ -60,7 +60,7 @@ pirate_spawn_value 0
 
 
 faction	greek_cities, balanced napoleon
-denari	1100
+denari	900
 
 settlement
 {
@@ -107,7 +107,7 @@ relative 	Kleomenes of Sparta, 	Clymene,	end
 
 
 faction	slave, balanced_smith
-denari	-18999999
+denari	-18899999
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ; 1. Hellas
@@ -154,7 +154,7 @@ settlement
 	region Epidauros01_R
 
 	year_founded 0
-	population 500
+	population 480
 	plan_set default_set
 	faction_creator greek_cities
 	building
@@ -402,7 +402,7 @@ settlement
 	region Patrae_R
 
 	year_founded 0
-	population 1100
+	population 1010
 	plan_set default_set
 	faction_creator greek_cities
 	building
@@ -411,7 +411,7 @@ settlement
 	}
 	building
 	{
-		type defenses wooden_wall
+		type defenses wooden_pallisade
 	}
 	building
 	{
@@ -424,7 +424,7 @@ settlement
 	region Delos_R
 
 	year_founded 0
-	population 720
+	population 700
 	plan_set default_set
 	faction_creator greek_cities
 	building
@@ -577,6 +577,24 @@ settlement
 settlement
 {
 	level town
+	region Mantineia_R
+
+	year_founded 0
+	population 420
+	plan_set default_set
+	faction_creator greek_cities
+	building
+	{
+		type core_building governors_house
+	}
+	building
+	{
+		type defenses wooden_pallisade
+	}
+}
+settlement
+{
+	level town
 	region Kasos_R
 
 	year_founded 0
@@ -608,7 +626,7 @@ settlement
 	region Karthaea_R
 
 	year_founded 0
-	population 303
+	population 250
 	plan_set default_set
 	faction_creator greek_cities
 	building
@@ -622,7 +640,7 @@ settlement
 	region Siphnos_R
 
 	year_founded 0
-	population 290
+	population 270
 	plan_set default_set
 	faction_creator greek_cities
 	building
@@ -669,10 +687,56 @@ settlement
 settlement
 {
 	level town
+	region Orchomenos01_R
+
+	year_founded 0
+	population 500
+	plan_set default_set
+	faction_creator greek_cities
+	building
+	{
+		type core_building governors_house
+	}
+	building
+	{
+		type defenses wooden_pallisade
+	}
+}
+settlement
+{
+	level town
 	region Psophis_R
 
 	year_founded 0
 	population 376
+	plan_set default_set
+	faction_creator greek_cities
+	building
+	{
+		type core_building governors_house
+	}
+}
+settlement
+{
+	level town
+	region Paros_R
+
+	year_founded 0
+	population 355
+	plan_set default_set
+	faction_creator greek_cities
+	building
+	{
+		type core_building governors_house
+	}
+}
+settlement
+{
+	level town
+	region Paxos_R
+
+	year_founded 0
+	population 245
 	plan_set default_set
 	faction_creator greek_cities
 	building
@@ -701,10 +765,64 @@ settlement
 settlement
 {
 	level town
+	region Kos_R
+
+	year_founded 0
+	population 610
+	plan_set default_set
+	faction_creator greek_cities
+	building
+	{
+		type core_building governors_house
+	}
+	building
+	{
+		type defenses wooden_pallisade
+	}
+	building
+	{
+		type market trader
+	}
+}
+settlement
+{
+	level town
+	region Kerkyra_R
+
+	year_founded 0
+	population 560
+	plan_set default_set
+	faction_creator greek_cities
+	building
+	{
+		type core_building governors_house
+	}
+	building
+	{
+		type defenses wooden_pallisade
+	}
+}
+settlement
+{
+	level town
 	region Thyrea_R
 
 	year_founded 0
 	population 405
+	plan_set default_set
+	faction_creator greek_cities
+	building
+	{
+		type core_building governors_house
+	}
+}
+settlement
+{
+	level town
+	region Telos_R
+
+	year_founded 0
+	population 395
 	plan_set default_set
 	faction_creator greek_cities
 	building
@@ -804,7 +922,7 @@ settlement
 	region Taphos_R
 
 	year_founded 0
-	population 390
+	population 340
 	plan_set default_set
 	faction_creator greek_cities
 	building
@@ -819,6 +937,34 @@ settlement
 
 	year_founded 0
 	population 350
+	plan_set default_set
+	faction_creator greek_cities
+	building
+	{
+		type core_building governors_house
+	}
+}
+settlement
+{
+	level village
+	region Ikos_Eudemea_R
+
+	year_founded 0
+	population 210
+	plan_set default_set
+	faction_creator greek_cities
+	building
+	{
+		type core_building governors_house
+	}
+}
+settlement
+{
+	level village
+	region Maiandrea_R
+
+	year_founded 0
+	population 300
 	plan_set default_set
 	faction_creator greek_cities
 	building
@@ -856,6 +1002,32 @@ settlement
 	building
 	{
 		type defenses wooden_wall
+	}
+	building
+	{
+		type barracks muster_field
+	}
+	building
+	{
+		type port_buildings port
+	}
+}
+settlement
+{
+	level large_town
+	region Andros_R
+
+	year_founded 0
+	population 604
+	plan_set default_set
+	faction_creator greek_cities
+	building
+	{
+		type core_building governors_villa
+	}
+	building
+	{
+		type defenses wooden_pallisade
 	}
 	building
 	{
